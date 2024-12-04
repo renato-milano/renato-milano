@@ -3,7 +3,7 @@
 
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Always+solving+someone+else+problem;FulL-stack+Web+and+App+Developer;Always+learning+new+things;Always+exploring+new+ways" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Always+solving+someone+else+problem;Full-stack+Web+and+App+Developer;Always+learning+new+things;Always+exploring+new+ways" alt="Typing SVG" /></a>
 <p>
 Hi, I'm Renato Milano 👋 a passionate software developer with a Bachelor's degree in Computer Science from the University of Salerno. Over the years, I have honed my skills in both back-end and front-end development, allowing me to deliver complete and efficient solutions for a wide range of projects. Whether it's crafting intuitive user interfaces with <strong>Vue.js</strong> or building robust APIs with <strong>Python Flask</strong>, I thrive on bringing ideas to life and creating impactful software.
 </p>
