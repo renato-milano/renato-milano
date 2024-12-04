@@ -44,7 +44,7 @@ Hi, I'm Renato Milano 👋 a passionate software developer with a Bachelor's deg
 <h2>📫 Get in Touch</h2>
 <p>
    <a href="mailto:renatomilanodev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <br>
-  <img href="https://www.linkedin.com/in/renato-milano-a52b61192/" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://www.linkedin.com/in/renato-milano-a52b61192/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 <p align="center">
